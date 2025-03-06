@@ -1,4 +1,3 @@
-/* General Styles */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -9,13 +8,10 @@
     position: relative;
   }
   
-  /* Left - Logo */
   .logo {
     font-size: 24px;
     font-weight: bold;
   }
-  
-  /* Center - Navigation Links */
   .nav-links {
     display: flex;
     gap: 30px;
@@ -40,7 +36,6 @@
 
   }
   
-  /* Right - Button */
   .nav-button button {
     background: black;
     color: white;
@@ -58,14 +53,12 @@
     color: black;
   }
   
-  /* Mobile Styles */
   .menu-toggle {
     display: none;
     font-size: 24px;
     cursor: pointer;
   }
   
-  /* Responsive - Mobile Navigation */
   @media screen and (max-width: 768px) {
     .menu-toggle {
       display: block;

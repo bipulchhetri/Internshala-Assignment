@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import {  } from 'react'
 import './App.css'
 import './index.css'
 import Navigation from './componets/Navigation'
@@ -13,7 +13,7 @@ import Banner from './componets/Banner'
 import Footer from './componets/Footer'
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
