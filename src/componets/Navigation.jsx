@@ -10,7 +10,7 @@ const Navigation = () => {
 
   return (
     <nav className="navbar">
-      <div className="logo">LOGO</div>
+      <div className="logo">M</div>
 
       <div className={`nav-links ${isOpen ? "open" : ""}`}>
         <a href="#">Home</a>
