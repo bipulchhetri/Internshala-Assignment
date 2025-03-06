@@ -6,19 +6,17 @@ const blogs = [
     date: "Nov 9, 2023",
     title: "How UX works in web",
     tags: ["UI", "UX"],
-    image: "card1.png", // Replace with actual image path
+    image: "card1.png", 
   },
   {
     date: "Aug 18, 2023",
     title: "Case study - Analysis Application.",
     tags: ["DESIGN", "PRINT"],
-    image: "card2.png", // Replace with actual image path
-  },
-  {
+    image: "card2.png", 
     date: "Feb 16, 2023",
     title: "3 ways to develop your skill",
     tags: ["FIGMA", "WEB"],
-    image: "card3.png", // Replace with actual image path
+    image: "card3.png", 
   },
 ];
 

@@ -1,6 +1,6 @@
 .expertise {
     padding: 50px 20px;
-    /* text-align: center; */
+    
   }
   
   .expertise h2 {
@@ -14,7 +14,7 @@
     gap: 30px;
   }
   
-  /* Expertise Item */
+ 
   .expertise-item {
     background-color: #1e1e1e;
     padding: 30px;
@@ -31,14 +31,13 @@
     color: white;
   }
   
-  /* 🔹 Tablet View (768px and below) */
   @media screen and (max-width: 768px) {
     .expertise h2 {
       font-size: 2rem;
     }
   
     .expertise-grid {
-      grid-template-columns: 1fr; /* Change to 1 column */
+      grid-template-columns: 1fr;
     }
   
     .expertise-item {
@@ -46,7 +45,7 @@
     }
   }
   
-  /* 🔹 Mobile View (480px and below) */
+  
   @media screen and (max-width: 480px) {
     .expertise {
       padding: 30px 15px;
@@ -57,7 +56,7 @@
     }
   
     .expertise-grid {
-      grid-template-columns: 1fr; /* Single column layout */
+      grid-template-columns: 1fr; 
       gap: 20px;
     }
   

@@ -4,21 +4,20 @@ const testimonials = [
   {
     name: "Floyd Miles",
     company: "eBay",
-    image: "image.png", // Replace with actual image path
+    image: "image.png", 
     text: "Synergy's resume builder is fantastic. It helped me create a professional resume that stood out to employers. Synergy's resume builder is fantastic. It helped me create a professional resume that stood out to employers.",
   },
   {
     name: "Bipul",
     company: "creatiwise",
-    image: "image.png", // Replace with actual image path
+    image: "image.png", 
     text: "Synergy's resume builder is fantastic. It helped me create a professional resume that stood out to employers. Synergy's resume builder is fantastic. It helped me create a professional resume that stood out to employers.",
   }, {
     name: "chhetri",
     company: "eBay",
-    image: "image.png", // Replace with actual image path
+    image: "image.png", 
     text: "Synergy's resume builder is fantastic. It helped me create a professional resume that stood out to employers. Synergy's resume builder is fantastic. It helped me create a professional resume that stood out to employers.",
   },
-  // Add more testimonials as needed
 ];
 
 const Testimonial = () => {
